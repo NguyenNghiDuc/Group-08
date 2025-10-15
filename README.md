@@ -1,8 +1,6 @@
 # 🌸 Dự án Group-08: Ứng dụng Quản lý Thực phẩm
 
 
-- Nguyễn Trung Đức — MSV: 24100339  
-
 ---
 
 ## 🌐 Xem trực tiếp trang web
@@ -12,44 +10,46 @@
 - [Đi dạo trong công viên](https://nguyennghiduc.github.io/Group-08/html/park.html)
 
 ---
+[Xem trực tiếp file CSS](https://github.com/NguyenNghiDuc/Group-08/blob/main/css/style.css)
+
 
 ## 🖼️ Giao diện minh họa
 
 ### Giao diện 1
-![](images/anh1.png)
+![](../Group-08/images/anh1.png)
 
 ### Giao diện 2
-![](images/anh2png.png)
+![](../Group-08/images/anh2png.png)
 
 ### Giao diện 3
-![](images/anh3.png)
+![](../Group-08/images/anh3.png)
 
 ### Giao diện 4
-![](images/anh4.png)
+![](../Group-08/images/anh4.png)
 
 ### Giao diện 5
-![](images/anh5.png)
+![](../Group-08/images/anh5.png)
 
 ### Giao diện 6
-![](images/ba.png)
+![](../Group-08/images/ba.png)
 
 ### Giao diện 7
-![](images/cay.png)
+![](../Group-08/images/cay.png)
 
 ### Giao diện 8
-![](images/chuot.png)
+![](../Group-08/images/chuot.png)
 
 ### Giao diện 9
-![](images/ho.png)
+![](../Group-08/images/ho.png)
 
 ### Giao diện 10
-![](images/may.png)
+![](../Group-08/images/may.png)
 
 ### Giao diện 11
-![](images/meo.png)
+![](../Group-08/images/meo.png)
 
 ### Giao diện 12
-![](images/wed.png)
+![](../Group-08/images/wed.png)
 
 ---
 
