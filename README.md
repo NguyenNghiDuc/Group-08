@@ -53,18 +53,6 @@
 
 ---
 
-## 📘 Giới thiệu
-Dự án được thực hiện trong khuôn khổ môn **Lập trình Hướng đối tượng (OOP 2025)**.  
-Ứng dụng giúp người dùng quản lý thực phẩm trong gia đình: thêm, sửa, xóa, theo dõi hạn sử dụng và thống kê.
 
 ---
 
-## ⚙️ Công nghệ sử dụng
-- HTML, CSS, JavaScript  
-- Java (xử lý logic chính)  
-- GitHub Pages (triển khai website)
-
----
-
-## 📅 Cập nhật gần nhất
-Cập nhật nội dung và hình ảnh giao diện ngày: **15/10/2025**
