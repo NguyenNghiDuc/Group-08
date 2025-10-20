@@ -31,7 +31,7 @@
 ![](../Group-08/images/anh5.png)
 
 
-![](../Group-08/images/ba.png)
+![](../Group-08/images/ho.png)
 
 
 ![](../Group-08/images/cay.png)
